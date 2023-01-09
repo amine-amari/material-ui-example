@@ -1,5 +1,6 @@
 .main_container {
     margin-top: 100px;
+    background-color: whitesmoke;
 }
 
 .photo_icon {
@@ -26,4 +27,9 @@
 
 .card_content {
     flex-grow: 1;
+}
+
+.footer {
+    background-color: whitesmoke;
+    padding: 50px 0;
 }
